@@ -1,0 +1,12 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+#contenedor{
+    width: 100%;
+    border: 6px solid lightcoral;
+}
+
+
+
